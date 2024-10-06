@@ -18,6 +18,10 @@ latest: 3.7.1
 
 [容器镜像: cnk3x/xunlei](https://hub.docker.com/r/cnk3x/xunlei)
 
+另一个容器：
+[容器镜像: kl3x/xunlei](https://hub.docker.com/r/kl3x/xunlei)
+
+
 阿里云镜像（国内访问）: registry.cn-shenzhen.aliyuncs.com/cnk3x/xunlei:latest
 
 [源码仓库: https://github.com/cnk3x/xunlei/tree/docker](https://github.com/cnk3x/xunlei/tree/docker)
